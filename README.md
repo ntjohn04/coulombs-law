@@ -1,6 +1,6 @@
-#coulombs-law
+# coulombs-law
 
-##DESCRIPTION
+## DESCRIPTION
 
 A JavaFX program that allows the user to create arrangements of spherical charged objects.
 Electric forces are calculated by treating spheres as point charges. Options for point charges include
